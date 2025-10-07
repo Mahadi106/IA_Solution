@@ -14,4 +14,8 @@ Ce projet explore l’utilisation de l’intelligence artificielle dans le déve
 
 ## Auteur
 
-Mahadi – Étudiant en SRI, passionné par la cybersécurité et les solutions intelligentes
+Mahadi106 – Étudiant en SRI, passionné par la cybersécurité et les solutions intelligentes
+
+## Licence
+
+Ce projet est sous licence MIT – libre d’utilisation, de modification et de distribution.
